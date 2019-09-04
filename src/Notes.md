@@ -1,0 +1,1 @@
+--storedValue-state property that takes a funciton as it's initial value
